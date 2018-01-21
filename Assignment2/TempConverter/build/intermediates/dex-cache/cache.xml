@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\anusl\Desktop\android\TempConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66193780cac8ea4f4dd9cb8e277ed4379ab72a01">
+        <dex dex="C:\Users\anusl\Desktop\android\TempConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a2471fd9274d403fe061dd9dc10d3cb413786861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anusl\Desktop\android\TempConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\anusl\Desktop\android\TempConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_90ea5869db9fba45b030e5cf8950662f0999db35\classes.dex" />
+    </item>
+
+</items>
